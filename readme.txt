@@ -1,3 +1,4 @@
+Paper link: https://link.springer.com/article/10.1007/s00521-022-07182-9
 SCVAE_action.py 使用DD数据集action标签
 SCVAE_emotion.py 使用DD数据集action标签
 SCVAE_visual.py 可视化隐空间
